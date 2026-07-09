@@ -43,7 +43,7 @@
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=samaelfeky&show_icons=true&theme=tokyonight"/>
 </p>
----
+
 
 ## 📊 GitHub Stats
 
@@ -54,7 +54,21 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
 
 </p>
+## 🔥 GitHub Streak
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=samaelfeky&theme=tokyonight"/>
+</p>
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=samaelfeky&theme=tokyonight"/>
+</p>
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samaelfeky&theme=tokyo-night"/>
+</p>
 ---
 
 ## 🔥 GitHub Streak

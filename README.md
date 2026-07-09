@@ -38,6 +38,12 @@
 - Problem Solving
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=samaelfeky&show_icons=true&theme=tokyonight"/>
+</p>
+---
 
 ## 📊 GitHub Stats
 
